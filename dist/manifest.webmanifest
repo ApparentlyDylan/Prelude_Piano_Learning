@@ -1,0 +1,17 @@
+{
+  "name": "Prelude — Learn Piano",
+  "short_name": "Prelude",
+  "description": "A complete piano curriculum, sheet-music reading course, and practice companion that listens while you play.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#211e1a",
+  "icons": [
+    {
+      "src": "/prelude.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

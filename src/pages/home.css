@@ -1,0 +1,370 @@
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding: 110px 0 0;
+}
+
+.hero__glow {
+  position: absolute;
+  top: -180px;
+  right: -140px;
+  width: 640px;
+  height: 640px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(154, 107, 63, 0.14) 0%, transparent 62%);
+  pointer-events: none;
+}
+
+.hero__grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 56px;
+  align-items: center;
+}
+
+.hero__copy .display em {
+  font-style: italic;
+  color: var(--accent-deep);
+}
+
+.hero__copy .lede {
+  margin-top: 26px;
+}
+
+.hero__actions {
+  display: flex;
+  gap: 14px;
+  margin-top: 38px;
+  flex-wrap: wrap;
+}
+
+.hero__art {
+  display: flex;
+  justify-content: center;
+  align-self: end;
+}
+
+.hero__keys {
+  display: flex;
+  align-items: flex-start;
+  height: 340px;
+  border-radius: 18px 18px 0 0;
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--line-strong);
+  border-bottom: none;
+  background: var(--dark);
+  padding-top: 14px;
+}
+
+.hero__key {
+  position: relative;
+  width: 34px;
+  height: 100%;
+  background: linear-gradient(180deg, #fffefb 0%, #f0ece1 100%);
+  border-right: 1px solid var(--line);
+  border-radius: 0 0 4px 4px;
+}
+
+.hero__black-key {
+  position: absolute;
+  top: 0;
+  right: -11px;
+  width: 22px;
+  height: 58%;
+  background: linear-gradient(180deg, #35312a 0%, #201d19 100%);
+  border-radius: 0 0 4px 4px;
+  z-index: 2;
+  box-shadow: 0 4px 8px rgba(33, 30, 26, 0.4);
+}
+
+.hero__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 44px 24px;
+  margin-top: 84px;
+  border-top: 1px solid var(--line);
+}
+
+.hero__stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.hero__stat-n {
+  font-family: var(--serif);
+  font-size: 40px;
+  color: var(--ink);
+  line-height: 1.1;
+}
+
+.hero__stat-l {
+  font-size: 13.5px;
+  color: var(--ink-faint);
+}
+
+/* ---------- shared ---------- */
+
+.home__heading {
+  margin-top: 18px;
+  max-width: 22ch;
+}
+
+.home__center {
+  display: flex;
+  justify-content: center;
+  margin-top: 52px;
+}
+
+/* ---------- method ---------- */
+
+.method__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 54px;
+}
+
+.method__card {
+  padding: 34px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.method__num {
+  font-family: var(--serif);
+  font-size: 15px;
+  color: var(--accent);
+  letter-spacing: 0.08em;
+}
+
+.method__card p {
+  font-size: 15px;
+  flex: 1;
+}
+
+.method__link {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent-deep);
+  transition: opacity 0.2s;
+}
+
+.method__link:hover {
+  opacity: 0.7;
+}
+
+/* ---------- follow along ---------- */
+
+.follow__grid {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 72px;
+  align-items: center;
+}
+
+.follow__lede {
+  margin-top: 20px;
+  font-size: 16.5px;
+  line-height: 1.75;
+}
+
+.follow__list {
+  list-style: none;
+  margin: 28px 0 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.follow__list li {
+  color: var(--dark-ink-soft);
+  font-size: 15px;
+  padding-left: 26px;
+  position: relative;
+}
+
+.follow__list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 12px;
+  height: 2px;
+  background: var(--accent);
+}
+
+.follow__visual {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+}
+
+.follow__bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  height: 240px;
+  width: 100%;
+  max-width: 380px;
+  padding: 28px;
+  border-radius: var(--radius);
+  background: var(--dark-soft);
+  border: 1px solid #46413a;
+}
+
+.follow__bars span {
+  flex: 1;
+  border-radius: 100px;
+  background: linear-gradient(180deg, var(--accent) 0%, var(--accent-deep) 100%);
+  transform-origin: bottom;
+  min-height: 8px;
+}
+
+.follow__caption {
+  font-size: 13px;
+  color: var(--dark-ink-soft);
+  letter-spacing: 0.06em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- curriculum preview ---------- */
+
+.curr__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 54px;
+}
+
+.curr__card {
+  padding: 30px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+}
+
+.curr__card p {
+  font-size: 15px;
+  flex: 1;
+}
+
+/* ---------- pieces preview ---------- */
+
+.pieces-preview__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 54px;
+}
+
+.pieces-preview__card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px 28px;
+  height: 100%;
+}
+
+.pieces-preview__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.pieces-preview__skills {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+/* ---------- goals band ---------- */
+
+.goals-band {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 72px;
+  align-items: center;
+}
+
+.goals-band__copy .lede {
+  margin: 20px 0 32px;
+}
+
+.goals-band__demo {
+  padding: 34px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.goals-band__row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14.5px;
+  color: var(--ink-soft);
+  font-weight: 520;
+  margin-top: 10px;
+}
+
+.goals-band__row:first-child {
+  margin-top: 0;
+}
+
+.goals-band__pct {
+  color: var(--accent-deep);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 920px) {
+  .hero__grid,
+  .follow__grid,
+  .goals-band {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+
+  .hero__art {
+    display: none;
+  }
+
+  .hero__stats {
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 40px;
+  }
+
+  .method__grid,
+  .curr__grid,
+  .pieces-preview__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    padding-top: 60px;
+  }
+
+  .hero__stats {
+    padding: 32px 8px;
+    gap: 22px;
+  }
+
+  .hero__stat-n {
+    font-size: 32px;
+  }
+
+  .hero__actions .btn {
+    flex: 1;
+    min-width: 180px;
+  }
+}

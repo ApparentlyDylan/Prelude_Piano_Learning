@@ -1,0 +1,662 @@
+{
+  "beginner": [
+    {
+      "id": "black-keys-and-new-places",
+      "number": 6,
+      "title": "Black Keys and New Places",
+      "summary": "The black keys are not obstacles to work around, they are landmarks and colors of their own. Learn sharps and flats, settle your hands into three new five-finger neighborhoods, and take your first steps into transposing and improvising.",
+      "lessons": [
+        {
+          "id": "sharps-and-flats-at-the-keyboard",
+          "title": "Sharps and Flats: Naming the Black Keys",
+          "minutes": 10,
+          "summary": "Learn how sharps and flats name the black keys relative to their white-key neighbors, and why the same key can answer to two names.",
+          "sections": [
+            {
+              "heading": "Borrowed names, not their own",
+              "body": "Every black key on the piano is a bit of a shapeshifter: it has no letter name of its own, only names borrowed from the white keys beside it. A sharp, written with the sign that looks like a small tic-tac-toe board, raises a note a half step, the smallest distance on the keyboard, so the black key just to the right of C is C sharp. A flat, written like a lowercase b leaning slightly, lowers a note a half step, so that very same black key, approached from the other side, is D flat. Same key, two names, chosen depending on which direction you are traveling from. This is not the piano being needlessly confusing, it is the piano being efficient: eighty-eight keys, thirty-six of them black, and every single one already has a name waiting for it in its neighboring white keys."
+            },
+            {
+              "heading": "Finding sharps and flats by feel",
+              "body": "You already know the two black-key groups from your very first lessons, the twos and the threes, so use them as your compass again. To find any sharp, locate its white key and move one half step to the right, the very next key, black or white. To find any flat, locate its white key and move one half step to the left. Try it hands-on: find middle C, then slide your finger to the black key immediately to its right, that is C sharp, and it is also D flat, since it sits one half step below D. Play C, C sharp, D slowly in a row and listen to the tiny, even climb. Do the same starting from G: G, G sharp, A. These half-step ladders are the smallest unit of pitch you have, and your ear should learn to recognize that close, chromatic, sliding sound."
+            },
+            {
+              "heading": "Two black keys with only one name apiece",
+              "body": "Look closely at the keyboard and you will notice something worth knowing early: E and F sit right next to each other with no black key between them, and so do B and C. This means E sharp is really just F, and B sharp is really just C, and likewise F flat is E, C flat is B. These pairs feel like an exception, but they are simply the recipe running its course, not every letter needs a black key beside it, because the natural half steps of the musical alphabet already fall between E-F and B-C. Play E to F and notice how close they sound compared to C to D, that closeness is the half step you have been hearing all along, just without a black key to mark it. Knowing this now will save you real confusion later, when scales and key signatures start asking for E sharp or C flat by name."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Sharp",
+              "definition": "A sign that raises a note by a half step, most often naming the black key just to the right of its white-key neighbor."
+            },
+            {
+              "term": "Flat",
+              "definition": "A sign that lowers a note by a half step, most often naming the black key just to the left of its white-key neighbor."
+            },
+            {
+              "term": "Enharmonic",
+              "definition": "Describes two names, such as C sharp and D flat, that point to the exact same key on the piano."
+            }
+          ],
+          "exercises": [
+            "Starting on C, play every half step up to the next C, white and black keys alternating in with the pattern of the keyboard, naming each key with its sharp name going up: C, C sharp, D, D sharp, E, F, and so on.",
+            "Play the same twelve-key climb again, this time naming each black key with its flat name coming down from the top C to the C below: C, B, B flat, A, A flat, and so on.",
+            "Find and play E to F and B to C five times each, listening for how much closer together they sound than other white-key neighbors. Say 'no black key here' aloud each time as a reminder."
+          ]
+        },
+        {
+          "id": "five-finger-positions-d-a-f",
+          "title": "New Neighborhoods: D, A, and F Position",
+          "minutes": 12,
+          "summary": "Move your five-finger shape onto D, A, and F, three positions that each require a single black key and open up new melodic territory.",
+          "sections": [
+            {
+              "heading": "D position: a black key joins the family",
+              "body": "You already learned that a five-finger shape can relocate freely, C position to G position and the pattern still works. Now let one black key join the neighborhood. D position places your right thumb on D, with fingers stretching over E, F sharp, G, A. That F sharp is the only new thing here, a half step higher than the plain F you know, and it changes the color of the position noticeably, brighter, almost expectant. Play D-E-F sharp-G-A slowly, saying finger numbers aloud, and notice that your third finger now rests on a black key instead of a white one. The hand shape does not change at all, only the terrain under two of your fingers. Left hand mirrors this with the little finger on the D below, walking up through E, F sharp, G, A with fingers 4, 3, 2, 1."
+            },
+            {
+              "heading": "A position and F position",
+              "body": "A position moves further still: right thumb on A, fingers covering B, C sharp, D, E, with two black keys now living inside the shape. Play it slowly, noticing that finger 2 lands on the black C sharp. F position works a little differently because of where its black key falls: right thumb on F, fingers over G, A, B flat, C, with the flat landing under finger 4. Practice each new position exactly as you first learned C position, hands separately, walking up and down the five keys, saying finger numbers aloud, feeling for the moment your finger meets a black key rather than a white one. The black key is not a bump in the road, it is simply this neighborhood's local landmark, and your hand will learn its address quickly with a little patient repetition."
+            },
+            {
+              "heading": "Letting your fingers feel the black keys",
+              "body": "Black keys sit slightly higher and further back than white keys, which means your finger placement shifts subtly when a position includes one. Play a black key with the same curved, relaxed hand shape you use everywhere else, but let your finger reach a touch further into the keyboard, closer to where the black keys begin, rather than playing right at the front edge where you would strike a white key. Practice this reach in isolation: in D position, play E with finger 2, then reach forward slightly for F sharp with finger 3, then back to G with finger 4 at the front edge again. That small forward-and-back adjustment, repeated patiently, is exactly how experienced hands navigate mixed black-and-white terrain without ever looking down to check."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "D position",
+              "definition": "The five-finger position covering D, E, F sharp, G, A, with the right thumb on D."
+            },
+            {
+              "term": "A position",
+              "definition": "The five-finger position covering A, B, C sharp, D, E, with the right thumb on A."
+            },
+            {
+              "term": "F position",
+              "definition": "The five-finger position covering F, G, A flat or B flat depending on the melody, with the right thumb on F; here using G, A, B flat, C."
+            }
+          ],
+          "exercises": [
+            "Play D position, right hand, up and down five times, saying finger numbers aloud and noticing the reach for F sharp under finger 3. Then play the same pattern in the left hand.",
+            "Move your right hand calmly between C position and D position five times, landing softly each time and checking that the curved hand shape never collapses when it meets the black key.",
+            "Practice A position and F position separately, right hand only, walking up and down five times each. In F position, pay special attention to the B flat under finger 4, reaching slightly further back for it."
+          ]
+        },
+        {
+          "id": "transposing-a-melody",
+          "title": "Transposition: One Song, Many Homes",
+          "minutes": 10,
+          "summary": "Take a melody you already know and move it to a new five-finger position, discovering that patterns, not letter names, are what your fingers actually remember.",
+          "sections": [
+            {
+              "heading": "What transposing really means",
+              "body": "Transposing means taking a piece of music and moving it, as a whole, to start on a different note, while keeping every interval between the notes exactly the same. You had a first taste of this back when you moved 'Mary Had a Little Lamb' from C position to G position, and the fingers used the identical pattern both times. Transposition is that trick, deliberately practiced as its own skill. The reason it works is that a melody is really a shape, a sequence of ups, downs, and repeats, and that shape can be dropped onto any starting note and still sound recognizably itself, the way a paper cutout keeps its outline no matter what color paper you use. Once you can transpose confidently, you hold a kind of master key: any simple tune you know can live in any position your hand can find."
+            },
+            {
+              "heading": "How to transpose, step by step",
+              "body": "Start with a melody you know cold in one position, and describe it not by letter names but by finger numbers and direction: 'start on 3, step down to 2, step down to 1, step up to 2, step up to 3, repeat 3, step down to 2, step down to 2 again.' That description is now portable. Place your hand in a brand new position, say D position, and play the exact same finger-number pattern: finger 3 is now F sharp instead of E, but the shape, the melody's outline, survives perfectly intact. Play slowly, checking each step against your memory of how the tune should sound, not against the letter names. If it sounds right, you have transposed successfully. If something sounds off, you likely have the wrong starting position or a wrong finger, not a wrong note choice within the position."
+            },
+            {
+              "heading": "Practicing the skill on purpose",
+              "body": "Pick one simple five-finger melody, 'Hot Cross Buns' is ideal because it uses only three notes and a short, memorable pattern, finger 3, 2, 1, 3, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 2, 1. Play it in C position, then G position, then D position, then A position, then F position, one after another, without looking anything up, relying only on the finger-number pattern and your ear. Notice how the character shifts slightly from position to position, brighter here, warmer there, even though the tune itself never changes. This exercise builds two things at once: flexible hands that are not afraid of new territory, and an ear that recognizes a melody's shape independent of its starting pitch, a skill that will make every future key and scale far less intimidating."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Transposition",
+              "definition": "Moving a piece of music to start on a different note while preserving the exact pattern of intervals between its notes."
+            },
+            {
+              "term": "Melodic shape",
+              "definition": "The pattern of ups, downs, and repeats in a tune, independent of which specific notes it starts on."
+            },
+            {
+              "term": "Portable fingering",
+              "definition": "A fingering pattern described by finger numbers and direction rather than letter names, so it can transfer directly to a new position."
+            }
+          ],
+          "exercises": [
+            "Play 'Hot Cross Buns' in C position using fingers 3-2-1, then transpose it immediately to G position using the identical finger pattern. Check by ear that the tune still sounds correct.",
+            "Choose one more melody you know well in C position and transpose it, one position at a time, into G, D, and F position, using only finger numbers as your guide, no letter names.",
+            "Play the same short melody in two positions back to back and describe out loud, in one sentence, how the character changes between them, even though the pattern stays identical."
+          ]
+        },
+        {
+          "id": "black-key-improvisation",
+          "title": "Black-Key Improvising: Playing for Fun",
+          "minutes": 10,
+          "summary": "Use the pentatonic safety of the black keys to improvise freely, discovering that you can make real music without reading a single note.",
+          "sections": [
+            {
+              "heading": "Why the black keys are a safe playground",
+              "body": "Here is a small, delightful secret: the five black keys on the piano form a pentatonic scale, and any combination of notes drawn from just those five keys sounds pleasant together, almost no matter what order you play them in. There is no wrong note waiting to ambush you, because the harsh, unsettled clashes that come from mixing certain white keys simply do not occur within this five-note black-key family. This makes the black keys the perfect playground for your very first improvising, making music up as you go, with no sheet music in front of you at all. Rest one hand gently over the group of three black keys and the other over a group of two, and simply start playing, slowly, listening, trusting that whatever you choose will sound like it belongs."
+            },
+            {
+              "heading": "A few starting games",
+              "body": "Improvising goes more easily with a small game to organize your ear, so try a few. First, the echo game: play a short pattern of three or four black keys with your right hand, then immediately repeat it, or answer it with a slightly different pattern, like a question and answer. Second, the low-drone game: with your left hand, hold or softly repeat one low black key underneath, then let your right hand wander freely above it, since a steady low note gives even a wandering melody a sense of home. Third, the rhythm game: pick just two black keys and improvise using only long and short note values, no new pitches at all, so your ear focuses entirely on rhythm and phrasing. Each game removes one variable so you can enjoy the others without feeling overwhelmed."
+            },
+            {
+              "heading": "Listening as you play",
+              "body": "The point of this lesson is not correctness, it is discovery: noticing what your own hands like to do when nobody is grading them. As you improvise, listen for moments that surprise or please you, a little rising figure, an unexpected pause, a phrase that feels like it wants to repeat, and when you find one, play it again on purpose, the way you might replay a good line from a conversation. This is exactly how composers work, catching an idea, then developing it. Do not worry about remembering everything you play; most of it is meant to be temporary, like a sketch. Spend five relaxed minutes doing this at the end of a practice session, with no goal except your own enjoyment, and you will find that fun and skill-building are, at this stage, the very same activity."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Pentatonic scale",
+              "definition": "A five-note scale; the black keys of the piano form one such scale in which most note combinations sound pleasant together."
+            },
+            {
+              "term": "Improvisation",
+              "definition": "Making up music in the moment rather than playing from memory or notation."
+            },
+            {
+              "term": "Drone",
+              "definition": "A single sustained or repeated low note that provides a steady harmonic anchor under a freely moving melody."
+            }
+          ],
+          "exercises": [
+            "Rest your right hand over the black keys and improvise for one minute using only the echo game: play a short pattern, then repeat or answer it, without worrying about a beginning or an end.",
+            "Hold or softly repeat one low black key with the left hand as a drone, and improvise freely above it with the right hand for two minutes, listening for any phrase you like enough to repeat.",
+            "Pick two black keys and improvise using only long and short rhythms for one minute, then switch to three black keys and add a touch of dynamic shading, soft and loud, to your playing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "your-first-performances",
+      "number": 7,
+      "title": "Your First Performances",
+      "summary": "Learning notes is only half the journey; the other half is turning a piece into something you can perform, start to finish, in front of someone, without falling apart at the first wrong note. This module builds that whole skill set.",
+      "lessons": [
+        {
+          "id": "learning-a-piece-start-to-finish",
+          "title": "Learning a Piece from Start to Finish",
+          "minutes": 15,
+          "summary": "Build a reliable, repeatable plan for taking a new piece from first read-through to confident, complete performance.",
+          "sections": [
+            {
+              "heading": "Sectioning the piece before you play a note",
+              "body": "Before you play a single measure of a new piece, spend a few minutes simply looking at it, the way you would study a map before a road trip. Find the natural sections: a place where the melody clearly starts fresh, where the hands move to a new position, where a repeat sign or a double bar line marks a boundary. Pencil small brackets or letters, A, B, C, directly above these sections in your music. This turns one long, intimidating piece into a handful of short, learnable errands. Most pieces at this stage break into two to four such sections, each only a few lines long. Sectioning is not extra work bolted onto learning the piece, it is the single habit that makes learning the piece manageable at all, the same way a house gets built room by room, not as one undifferentiated mass of wall."
+            },
+            {
+              "heading": "A hands-together plan that actually works",
+              "body": "With your sections marked, learn one section at a time, and within each section, follow an order that stacks the odds in your favor: right hand alone until it is secure, left hand alone until it is secure, then hands together at a tempo slow enough that combining them feels almost too easy. Use the three-times rule you already know, three clean, consecutive, counted repetitions, before calling a section done and moving to the next. Resist the pull to play from the beginning every single time you sit down; instead, work directly on whichever section is currently weakest, since that is where your practice time earns the most. Only once every section is secure on its own do you begin stitching them together, playing section A into B, then B into C, checking especially that the seams between sections do not develop their own little hesitations."
+            },
+            {
+              "heading": "From sections to a whole performance",
+              "body": "The final stage is deliberately different from all the practice before it: a from-the-top run, start to finish, at your chosen performance tempo, with a spirit of finishing rather than fixing. Give yourself permission, just for this run, to let small imperfections pass without stopping to correct them, because you are now rehearsing the experience of a complete performance, not polishing details. Do one such run near the end of most practice sessions once the piece is largely learned, and notice honestly which section still wobbles under this pressure; that section goes back into slow, sectioned practice tomorrow. A piece is not truly learned until it can survive an uninterrupted run from beginning to end, so treat this whole-piece run-through as the real test, the one all your sectioned practice has been quietly preparing you for."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Sectioning",
+              "definition": "Dividing a piece into short, natural sections marked in the score, so it can be learned one manageable part at a time."
+            },
+            {
+              "term": "Hands-together plan",
+              "definition": "The ordered practice sequence of right hand alone, left hand alone, then hands together, applied to each section of a piece."
+            },
+            {
+              "term": "From-the-top run",
+              "definition": "A complete, uninterrupted play-through of a piece at performance tempo, used to test whether the piece is truly learned."
+            }
+          ],
+          "exercises": [
+            "Take a piece you are currently learning and mark its sections directly in the music with brackets or letters. Aim for sections of about four to eight measures each.",
+            "Apply the full hands-together plan, right hand alone, left hand alone, then together, to just one section today, using the three-times rule before calling it secure.",
+            "Once most sections are learned, do one from-the-top run at your chosen tempo without stopping for mistakes. Afterward, name the one section that needs more slow, sectioned work tomorrow."
+          ]
+        },
+        {
+          "id": "memorization-basics",
+          "title": "Memorization Basics: Four Kinds of Memory",
+          "minutes": 12,
+          "summary": "Discover the four overlapping memories, muscle, ear, eye, and analysis, that together make a piece secure to play by heart.",
+          "sections": [
+            {
+              "heading": "Memory is not one thing",
+              "body": "Ask most beginners how they memorize a piece and they describe one process: play it enough times and it sticks. That works, up to a point, but it builds a single, fragile kind of memory, the automatic memory in your fingers and hands, sometimes called muscle memory. It feels wonderful right up until it fails, usually at the worst possible moment, a distraction, a slightly different piano, a moment of nerves, and once it fails there is often nothing to fall back on, because no other kind of memory was built alongside it. Reliable memorization comes from layering several different kinds of memory on top of one another, so that if one goes quiet under pressure, another can carry you through. This lesson introduces the four kinds worth building deliberately."
+            },
+            {
+              "heading": "The four memories",
+              "body": "Muscle memory is the felt sequence of movements your hands have rehearsed so often they seem to know the piece themselves. Ear memory is knowing how the piece sounds so well that you could sing or hum it from memory, checking your fingers against your inner ear as you play. Eye memory is a visual picture of the score, being able to see the page in your mind and recall roughly what the notes look like and where they sit. Analytical memory is understanding the piece's structure, its sections, its chord changes, its patterns, so that you could explain out loud what happens next and why, even away from the piano. None of these four needs to be perfect on its own. Together, they form a kind of safety net: if your fingers hesitate, your ear or your analysis can often nudge you back on track."
+            },
+            {
+              "heading": "Building the extra memories on purpose",
+              "body": "Most players build muscle memory automatically just by practicing, so this lesson asks you to build the other three on purpose. For ear memory, try singing or humming a memorized section away from the piano, no fingers involved, and notice where the tune gets fuzzy. For eye memory, close your eyes partway through a practice run and see if you can picture the next line of the score before you reach it. For analytical memory, stop and narrate a section out loud: 'this phrase repeats the opening a step higher, then the left hand switches to the G chord.' If any one of these feels difficult, that is valuable information, it shows you exactly where your memory of the piece is thin, and thin spots are precisely where memory slips happen in performance."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Muscle memory",
+              "definition": "The automatic, felt sequence of movements built through repeated practice of a piece."
+            },
+            {
+              "term": "Ear memory",
+              "definition": "Knowing how a piece sounds well enough to sing or hum it from memory, independent of the fingers."
+            },
+            {
+              "term": "Analytical memory",
+              "definition": "Understanding and being able to describe a piece's structure, patterns, and chord changes, apart from playing or hearing it."
+            }
+          ],
+          "exercises": [
+            "Choose a short section you have memorized and sing or hum it away from the piano with no fingers moving. Note exactly where the tune becomes unclear in your mind.",
+            "Play a memorized section and close your eyes for a few measures partway through, trying to picture the score in your mind before continuing. Notice how vivid or vague the mental picture is.",
+            "Narrate a memorized section out loud without playing it: describe what the hands do, where the chords change, and how one phrase relates to the next, as if teaching it to someone else."
+          ]
+        },
+        {
+          "id": "playing-without-stopping",
+          "title": "Playing Without Stopping",
+          "minutes": 10,
+          "summary": "Train the crucial habit of continuing through mistakes, and learn concrete recovery techniques for when things go wrong mid-piece.",
+          "sections": [
+            {
+              "heading": "Why stopping is the real mistake",
+              "body": "Here is a truth every performer eventually learns: a wrong note is a small, forgettable blemish, but a full stop is what an audience actually remembers. In practice, stopping to fix every slip is natural and even useful, but it quietly trains a dangerous reflex, the belief that a mistake demands an immediate halt. Carried into a performance, that reflex turns one tiny slip into a visible collapse: the music stops, the silence stretches, and the listener's attention snaps entirely onto the trouble instead of drifting past it, as it would have on its own. From this point forward, treat 'keep going' as a specific skill to train, not a hope to have. It is built the same way every other pianistic skill is built, through deliberate, repeated practice under safe conditions."
+            },
+            {
+              "heading": "Training the keep-going reflex",
+              "body": "Practice this directly, on purpose, in low-stakes moments. Play through a piece you know reasonably well and deliberately let small errors pass without stopping, wrong notes, a fumbled chord, an unsteady rhythm, simply continuing at tempo as though nothing happened. This feels strange at first, almost like ignoring good manners, since your instinct will be to acknowledge and correct every slip immediately. Do it anyway, and notice something important: most small errors are barely noticeable to a listener if the music simply continues, while every stop is unmistakable to everyone in the room. A useful drill is to play with a metronome or a recording of yourself and treat the beat as a river you must stay in no matter what happens to any single note, because in performance, time is the thing that must never break, even when a note occasionally does."
+            },
+            {
+              "heading": "Concrete ways back in",
+              "body": "Keeping going is only half the skill, the other half is knowing exactly where to rejoin the music when something derails you. Build a small mental map of safe landing spots in every piece you perform, usually the start of each section or phrase, the first beat of a measure, or a strong chord you know cold. If your fingers lose the thread, the fastest recovery is often to drop to the next landing spot rather than trying to patch the exact spot you fell from, skip ahead cleanly rather than scrambling backward. Another reliable trick: keep the left hand's rhythm or harmony going even if the right hand's melody falters, since a steady accompaniment often gives your ear enough of a foothold to find the tune again on its own. Practice this on purpose: deliberately skip a measure in a piece you know, and practice landing cleanly on the next one."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Keep-going reflex",
+              "definition": "The trained habit of continuing to play through a small mistake instead of stopping, since a stop is far more noticeable to a listener than an error."
+            },
+            {
+              "term": "Landing spot",
+              "definition": "A reliable, well-known point in a piece, such as the start of a phrase, where a player can rejoin the music after a slip."
+            },
+            {
+              "term": "Recovery",
+              "definition": "The act of returning cleanly to the music after a mistake, usually by moving forward to a landing spot rather than backward to the exact error."
+            }
+          ],
+          "exercises": [
+            "Play through a piece you know reasonably well and deliberately let every small mistake pass without stopping, keeping the tempo steady from start to finish.",
+            "Mark three or four landing spots in a piece you are learning, natural places to rejoin the music. Practice starting cold from each landing spot until every one feels equally comfortable.",
+            "Play a familiar piece and, at one unplanned moment, deliberately skip a measure on purpose, landing cleanly on the next one and continuing without hesitation."
+          ]
+        },
+        {
+          "id": "performing-for-others",
+          "title": "Playing for Other People",
+          "minutes": 10,
+          "summary": "Prepare for the particular experience of performing for an audience, and gather simple, practical tools for calming performance nerves.",
+          "sections": [
+            {
+              "heading": "Performing is a different skill than practicing",
+              "body": "Playing a piece alone in a quiet room and playing that same piece for even one other listener are, physically and mentally, two different experiences, and it is worth naming that honestly rather than being surprised by it later. An audience, even an audience of one kind relative, changes your breathing, your heart rate, and the amount of attention available for the music itself, because part of your mind is now occupied with being watched. This is completely normal and happens to professional performers as much as to beginners; the difference is that experienced performers have specifically practiced the performing situation, not just the piece. So treat performing itself as a skill with its own practice, separate from learning notes, and build it gradually and gently, starting with the lowest-pressure version of an audience you can arrange."
+            },
+            {
+              "heading": "Practicing the performance, not just the piece",
+              "body": "Create small, deliberately low-stakes performance opportunities well before any real occasion arrives. Play a memorized piece for a single family member while they sit and listen, without checking your phone or chatting, real, if gentle, attention. Play it standing in a different room from where you usually practice, or on a different keyboard if one is available, since even small changes in surroundings can rattle a shaky memory and are worth rehearsing through. Try recording yourself on video, which reliably produces a small jolt of self-consciousness similar to a real audience, and is available any time you want a practice run. Each of these dress rehearsals teaches your body that performing conditions are survivable and familiar, so that the real occasion, whenever it comes, feels like something you have already done successfully several times before."
+            },
+            {
+              "heading": "Simple tools for the nervous moment",
+              "body": "A few concrete, physical tools genuinely help in the moment, and none of them require experience or special talent. Before you begin, take one slow breath low into your belly rather than high into your chest, which calms the nervous system directly rather than just distracting from it. Choose and rehearse a fixed first move: exactly how you will sit, exactly how your hands will find their starting position, exactly the tempo of your first two notes, so that the very beginning of the piece runs on rehearsed habit rather than on a nervous, decision-making brain. If your mind goes blank or your hands shake, return to the keep-going reflex from the previous lesson, nerves make mistakes more likely, not less survivable, and the same recovery skills apply. Finally, reframe the moment honestly: nerves are simply energy, and channeled into the music rather than fought against, that same energy often makes a performance more alive, not less."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Performance practice",
+              "definition": "Deliberately rehearsing the experience of playing for a listener, separate from and in addition to practicing the notes themselves."
+            },
+            {
+              "term": "Dress rehearsal",
+              "definition": "A low-stakes practice performance, such as playing for one family member or on video, that simulates the conditions of a real performance."
+            },
+            {
+              "term": "Fixed first move",
+              "definition": "A rehearsed, consistent way of beginning a performance, sitting, hand placement, and opening tempo, that runs on habit rather than in-the-moment decisions."
+            }
+          ],
+          "exercises": [
+            "Play a memorized piece once for a single family member or friend who agrees to simply listen without interruption. Afterward, write down one thing that felt different from practicing alone.",
+            "Rehearse your fixed first move five times in a row: sit down, find your starting hand position, and play the first two notes at your chosen tempo, exactly the same way each time.",
+            "Record yourself on video playing a memorized piece from start to finish, using the keep-going reflex if anything goes wrong. Watch it back once, focusing only on what went well."
+          ]
+        }
+      ]
+    }
+  ],
+  "intermediate": [
+    {
+      "id": "technique-builders",
+      "number": 6,
+      "title": "Technique Builders",
+      "summary": "Move past learning notes and into building the physical technique that makes difficult passages feel easy: intelligent scale fingering, a free rotating wrist, safe octaves and reaches, and speed earned honestly through rhythm variation.",
+      "lessons": [
+        {
+          "id": "scale-fingering-logic",
+          "title": "Scale Fingering: The Logic Behind the Pattern",
+          "minutes": 15,
+          "summary": "Understand why scale fingerings are built the way they are, so you can apply the underlying logic to any scale instead of memorizing patterns by rote.",
+          "sections": [
+            {
+              "heading": "Fingering is not arbitrary",
+              "body": "When you first learned the C major scale fingering, 1-2-3, thumb tuck, 1-2-3-4-5, it may have felt like an arbitrary rule to memorize. It is not arbitrary at all, it is a solution to a physical problem, and understanding the problem makes every future scale far easier to learn. The problem is this: your thumb is short and prefers white keys, your hand has only five fingers, and a scale needs far more notes than that under one hand shape. Good fingering solves this by grouping the fingers into small clusters, most often a group of three, then a crossing, then a group of four, arranged so that the thumb almost always lands on a convenient, usually white, key and never has to cross awkwardly right after or right before a black key. Once you see fingering as problem-solving rather than memorization, you can often work out a sensible fingering for an unfamiliar scale yourself, before ever checking a book."
+            },
+            {
+              "heading": "Where the thumb wants to land",
+              "body": "The single most useful rule for building or checking any scale fingering is this: keep the thumb off the black keys whenever possible. Black keys sit higher and further back, and the short thumb reaching up onto one tends to twist the whole hand out of its natural shape, throwing off everything around it. This is exactly why F major's right-hand fingering shifts to 1-2-3-4, tuck, 1-2-3, rather than copying C major exactly, the fourth finger, not the thumb, is assigned to cross just before the B flat, keeping the thumb safely on white keys throughout. Look at any new scale with this rule in mind: find where the black keys fall, then place the thumb crossings on whichever side keeps it landing on white keys. This single principle explains the majority of standard scale fingerings you will ever encounter."
+            },
+            {
+              "heading": "Practicing fingering as a thinking skill",
+              "body": "Rather than only drilling scales you already have memorized fingerings for, practice the reasoning itself on a new one. Take B flat major, spell the scale, B flat, C, D, E flat, F, G, A, B flat, and before looking anything up, work out where the thumb crossings should fall by applying the rule: keep the thumb on white keys. You will likely find that finger 4 needs to take over just before the black key nearest the top, exactly as it did in F major. Check your reasoning against a reliable source afterward, and notice how often your logic was right. This kind of thinking, working out fingering from principles rather than only from memory, is what separates a pianist who can sensibly finger a completely new piece of music from one who is lost the moment a fingering is not printed on the page."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Fingering logic",
+              "definition": "The underlying physical reasoning behind a scale fingering, chiefly keeping the thumb off black keys, rather than an arbitrary sequence to memorize."
+            },
+            {
+              "term": "Thumb crossing",
+              "definition": "The point in a scale where the thumb passes under the hand, or another finger crosses over it, to continue the pattern beyond five notes."
+            },
+            {
+              "term": "Finger grouping",
+              "definition": "The clusters of three and four fingers, separated by crossings, that make up a standard scale fingering."
+            }
+          ],
+          "exercises": [
+            "Write out the B flat major scale by letter name, then work out a fingering for the right hand using only the rule of keeping the thumb off black keys. Play your fingering slowly and check it against a reference.",
+            "Play the F major scale, right hand, naming out loud which finger crosses and why, in terms of the black key it is avoiding for the thumb. Repeat with G major and D major, contrasting where the crossings fall.",
+            "Take one scale you already play fluently and explain its fingering out loud to an imagined student, focusing entirely on why the thumb lands where it does, not simply which numbers come in which order."
+          ]
+        },
+        {
+          "id": "rotation-and-wrist-freedom",
+          "title": "Rotation and Wrist Freedom",
+          "minutes": 12,
+          "summary": "Discover the small rotating motion of the forearm that unlocks relaxed, tireless playing in patterns that alternate between the hand's two sides.",
+          "sections": [
+            {
+              "heading": "The rotation hiding inside everyday motions",
+              "body": "Hold your hand out in front of you and turn a doorknob, or mime unscrewing a jar lid, and notice the motion in your forearm: a smooth rotation around its own long axis, not a wrist bend, not a finger motion, but a turning of the whole forearm that carries the hand with it. This same rotation lives inside a huge amount of piano technique, especially in patterns like broken chords, alternating intervals, and tremolo figures, where the hand repeatedly favors first its thumb side, then its little-finger side. Play a simple alternation, C then G an octave apart, back and forth, and notice that a small rotation toward the thumb, then toward the little finger, powers the motion far more efficiently than trying to lift and drop the whole arm vertically for each note. This rotation is often the missing ingredient that turns a tense, tiring passage into an easy, almost lazy-feeling one."
+            },
+            {
+              "heading": "Finding rotation without over-thinking it",
+              "body": "The clearest way to feel rotation is to isolate it away from the keys first. Let your arm hang loosely at your side and gently rotate your forearm back and forth, as if slowly turning that doorknob, feeling the motion happen well above the wrist, in the forearm itself. Bring that same easy rotation to the keyboard: play a broken interval, low C with the thumb, then G above it with finger 5, alternating slowly, and let a small rotation toward each note do most of the work, rather than pressing down harder with the finger or lifting the whole arm. Your wrist stays loose and slightly springy, neither rigid nor floppy, acting as a hinge that transmits the rotation smoothly into the fingertips. Overdoing the rotation looks like an exaggerated wobble, underdoing it looks like a stiff, flat hand grinding through the pattern, aim for the small, efficient middle."
+            },
+            {
+              "heading": "Applying rotation to real patterns",
+              "body": "Once the motion is familiar in isolation, apply it directly to material you are already practicing. Alberti bass figures, the common broken-chord accompaniment pattern found throughout Classical-era music, are a perfect testing ground: play the low note, up note, middle note, up note pattern and let a gentle rotation carry your hand between the outer and inner notes rather than powering each note with an isolated finger stroke. Trills and rapid alternations between two adjacent notes respond beautifully to the same idea, a fast, tiny rotation rather than two separate finger attacks. Whenever a repeated pattern in your music starts to feel tiring or tense after a minute of playing, pause and ask whether a hidden rotation could be doing some of that work instead of your muscles gripping through it. This single adjustment resolves a surprising share of intermediate-level hand fatigue."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Forearm rotation",
+              "definition": "A turning motion of the forearm around its own axis, similar to turning a doorknob, that powers many alternating and broken-chord patterns efficiently."
+            },
+            {
+              "term": "Alberti bass",
+              "definition": "A common broken-chord accompaniment pattern, low-high-middle-high, especially frequent in Classical-era piano music."
+            },
+            {
+              "term": "Wrist as hinge",
+              "definition": "The role of a loose, springy wrist in transmitting forearm rotation smoothly into the fingers, rather than staying rigid or collapsing."
+            }
+          ],
+          "exercises": [
+            "Away from the piano, rotate your relaxed forearm back and forth like turning a doorknob for thirty seconds, feeling the motion happen above the wrist. Then bring the same motion to a slow C-to-G octave alternation at the keys.",
+            "Play a one-octave Alberti bass pattern on a C major chord slowly, deliberately using forearm rotation to move between the low and inner notes, and notice whether your hand feels less tense than usual after two minutes.",
+            "Practice a slow trill between two adjacent white keys using small, quick forearm rotations rather than isolated finger strikes. Compare the sound and the feeling of tension against a trill played with fingers alone."
+          ]
+        },
+        {
+          "id": "octaves-and-safe-reaches",
+          "title": "Octaves and Larger Reaches, Played Safely",
+          "minutes": 12,
+          "summary": "Build the hand span, arm support, and warm-up habits that let you play octaves and wide intervals without strain or injury.",
+          "sections": [
+            {
+              "heading": "What an octave asks of your hand",
+              "body": "An octave, thumb on one key and little finger on its namesake eight notes away, asks your hand to open wider than almost anything you have played so far, and it is worth understanding what that stretch actually involves before drilling it heavily. The span comes from spreading the whole hand, not from straining any single finger, and the fingers between thumb and little finger, 2, 3, and 4, should stay relaxed and slightly curved, floating just above the keys rather than gripping down or splaying stiffly. Test your own comfortable reach right now: place thumb and little finger on an octave and notice whether your hand can hold that width without any sensation of strain in the palm or forearm. If octaves currently feel like a fight, that is valuable information, not a personal failing, and this lesson is built to address exactly that."
+            },
+            {
+              "heading": "Playing octaves without gripping",
+              "body": "The safest and most efficient octave technique uses arm weight and a light bounce, much like the staccato touch you already know, rather than a clenched, held-open hand shape. Approach the octave with the hand already shaped to its width just before arriving, then let arm weight drop through the outer two fingers, thumb and little finger, with fingers 2, 3, and 4 staying passively curled out of the way rather than pressing down. Release the grip immediately after each octave sounds, even in a passage of repeated octaves, so the hand relaxes and reshapes rather than staying locked open. Practice single octaves slowly first, drop, release, drop, release, listening for a full, unforced sound and checking after each one that your forearm has not tightened. Never play through pain in this stretch, ease off the tempo or the span and build gradually instead."
+            },
+            {
+              "heading": "Warming up and building span safely",
+              "body": "Hand span increases gradually and safely with warm, gentle practice, never with force or through pain, which is a genuine warning sign to stop immediately. Begin every octave or wide-reach practice session with a few minutes of gentle stretching away from the keys, spreading the fingers softly and shaking out any tension, and start your keyboard work with the narrowest reaches you find comfortable before working outward. If a stretch such as a ninth or a tenth is currently out of reach, many pieces allow a small adjustment, rolling the interval very quickly instead of striking it as a solid block, or omitting an inner note, rather than forcing an unsafe stretch. Build tolerance over weeks, not days, a few extra minutes of comfortable octave practice added gradually, and always end a stretching-heavy session by playing something gentle and narrow, so your hands finish relaxed rather than fatigued."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Octave technique",
+              "definition": "Playing an eight-note span using arm weight through the thumb and little finger, with the middle fingers relaxed and out of the way."
+            },
+            {
+              "term": "Hand span",
+              "definition": "The comfortable stretch a hand can safely reach between its outer fingers, which increases gradually with gentle, consistent practice."
+            },
+            {
+              "term": "Safe stretching",
+              "definition": "Building reach through gradual, pain-free practice and warm-ups, with rolled intervals or adjusted voicing used for any stretch that is currently unsafe."
+            }
+          ],
+          "exercises": [
+            "Play ten single octaves slowly on C, dropping arm weight through thumb and little finger and releasing fully between each one. Check after every octave that your forearm and palm feel relaxed, not gripped.",
+            "Warm up with two minutes of gentle finger stretching and shaking away from the piano, then practice octaves starting from your narrowest comfortable span, adding just a little more reach only if it feels entirely pain-free.",
+            "Find one passage in your repertoire with a wide reach that currently feels strained. Practice a safe alternative, a quick roll or an omitted inner note, and compare how it feels against forcing the full stretch."
+          ]
+        },
+        {
+          "id": "speed-through-rhythm-variations",
+          "title": "Building Speed Through Rhythm Variations",
+          "minutes": 15,
+          "summary": "Use dotted rhythms and rhythmic displacement to build finger speed and evenness far faster and more safely than simply playing faster.",
+          "sections": [
+            {
+              "heading": "Why straight repetition is not the fastest way to speed",
+              "body": "The most common way beginners try to build speed is also one of the least efficient: playing a passage over and over, a little faster each time, hoping the fingers gradually catch up. This works, slowly, and it often bakes in exactly the unevenness you are trying to eliminate, because at the edge of your ability every finger gets an equal, hurried share of time and none gets extra attention. Rhythm variations solve this more cleverly. By changing the rhythm of a passage while keeping the same notes and fingering, you can give certain fingers a longer, more demanding moment of work while others get a brief rest, training exactly the muscles that need it most. This is why professional pianists lean on rhythm practice constantly, it targets weakness directly instead of hoping speed arrives evenly on its own."
+            },
+            {
+              "heading": "Dotted rhythms: the classic tool",
+              "body": "Take any fast, even passage, a scale or a fast finger pattern, and instead of playing it in even notes, play it as long-short, long-short, a dotted rhythm, where the first note of each pair is held and the second is snapped out quickly. Then reverse it: short-long, short-long, so the note that was quick now becomes the held one. Practice both versions slowly and deliberately. What this achieves is subtle but powerful: the snapped, quick note in each pair is forced to move at a speed considerably faster than your passage's eventual target tempo, teaching that finger, in short controlled bursts, to move faster than it currently believes it can. Because the rhythm keeps alternating which note is quick, every finger in the passage eventually gets this fast-burst training, not just the ones that happened to be quick already."
+            },
+            {
+              "heading": "Displacement and putting it together",
+              "body": "A further variation, rhythmic displacement, breaks a passage into small groups, pairs or triplets, and adds a slight separation or accent at the start of each group, which trains clean, controlled starts and stops within a fast line, exactly the skill that prevents a fast passage from blurring into mush. Practice a scale in groups of two, then groups of three, with the tiniest gap between groups, hands separately at first. When you return to playing the passage evenly after a session of rhythm variations, you will often find it noticeably faster and cleaner than direct repetition would have produced in the same amount of time, because the difficult notes received focused, targeted training rather than an equal share of a hurried whole. Use rhythm variations as a regular tool on any passage that refuses to speed up through simple repetition."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Rhythm variation",
+              "definition": "Practicing a passage with an altered rhythm, such as dotted notes, while keeping the same pitches and fingering, to target speed and evenness."
+            },
+            {
+              "term": "Dotted rhythm practice",
+              "definition": "Alternating long-short and short-long rhythms on a passage so that each note, in turn, is forced through a brief burst of extra speed."
+            },
+            {
+              "term": "Rhythmic displacement",
+              "definition": "Grouping notes of a fast passage into small clusters with a slight separation between groups, training clean starts and stops within the line."
+            }
+          ],
+          "exercises": [
+            "Take one octave of a scale you know and practice it in long-short dotted rhythm five times, then in short-long dotted rhythm five times, hands separately, at a comfortable but deliberate tempo.",
+            "Practice the same scale in groups of two notes with a tiny separation between each pair, then in groups of three, listening for clean, controlled starts to each group rather than a blurred stream.",
+            "After ten minutes of rhythm variation practice on one difficult passage, play it straight and evenly at your target tempo and compare how it feels against your usual warm-up for that passage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "style-and-interpretation",
+      "number": 7,
+      "title": "Style and Interpretation",
+      "summary": "Learn to recognize the musical fingerprints of the Baroque, Classical, and Romantic eras, add authentic ornaments to your playing, shape time expressively with rubato, and start curating a personal repertoire you can return to for years.",
+      "lessons": [
+        {
+          "id": "baroque-classical-romantic-basics",
+          "title": "Baroque, Classical, and Romantic: Three Sound Worlds",
+          "minutes": 15,
+          "summary": "Learn the defining features of three major musical eras and how those features should shape the way you touch the keys.",
+          "sections": [
+            {
+              "heading": "Baroque: clarity, counterpoint, and steady pulse",
+              "body": "Baroque music, roughly the era of Bach and Handel, favors clarity above all else: independent melodic lines weaving together, often two or more equally important voices in conversation, a texture you already practiced in your polyphony lessons. The keyboard instruments of the time, harpsichords in particular, could not swell or fade the way a modern piano can, so Baroque music builds its expression through terraced dynamics, distinct blocks of loud or soft rather than long, gradual swells, and through the shape of the lines themselves rather than heavy pedal or dramatic volume changes. Ornaments, ornate little decorations on individual notes, are essential rather than optional, adding sparkle and emphasis in a texture that otherwise stays fairly even. On a modern piano, Baroque style calls for a light, clear touch, restrained pedal, and a steady, dance-like pulse that rarely bends."
+            },
+            {
+              "heading": "Classical: balance, elegance, and clear phrases",
+              "body": "Classical era music, Haydn, Mozart, and early Beethoven, favors balance and proportion: clear, symmetrical phrases that often answer each other like a question and response, singing melodies over a lighter, more transparent accompaniment such as the Alberti bass patterns from your technique lessons, and a texture where melody and harmony are more clearly separated than in Baroque counterpoint. Dynamics grow more expressive here, real crescendos and diminuendos start to appear, but the overall feeling stays elegant and controlled rather than intensely emotional, more polished conversation than raw outburst. On the keyboard, this calls for the two-note slur, the sighing figure you practiced earlier, precise, light articulation, and a touch that stays graceful even at louder volumes, never crashing or overly weighty. Think of Classical style as beautifully tailored clothing, nothing excessive, everything in its right proportion."
+            },
+            {
+              "heading": "Romantic: expressive freedom and big emotional range",
+              "body": "Romantic era music, Chopin, Schumann, Liszt and beyond, favors emotional expression above formal balance: sweeping melodies, rich and often thick harmony, wide dynamic ranges from the barely audible to the thunderous, and a far more flexible, personal sense of time, which is where rubato, covered in the next lesson, becomes essential rather than occasional. The piano itself had grown larger and more powerful by this era, capable of a much bigger dynamic range and a longer singing tone, and composers wrote to take full advantage of that new instrument. On the keyboard, Romantic style invites generous pedal use, a warmer, more legato touch throughout, and real freedom in tempo and dynamics that would feel out of place in a Bach minuet. Playing the same simple melody in Baroque, Classical, and then Romantic style, adjusting touch, pedal, and flexibility each time, is one of the fastest ways to feel these differences under your own hands."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Terraced dynamics",
+              "definition": "Distinct blocks of loud or soft volume, typical of Baroque music, rather than long gradual swells."
+            },
+            {
+              "term": "Classical balance",
+              "definition": "The symmetrical, proportioned phrasing and clear separation of melody and accompaniment typical of Classical-era music."
+            },
+            {
+              "term": "Romantic expressiveness",
+              "definition": "The wide dynamic range, rich harmony, and flexible sense of time characteristic of Romantic-era music."
+            }
+          ],
+          "exercises": [
+            "Play a simple five-finger melody three times: once with terraced dynamics and a light, even Baroque touch, once with graceful Classical phrasing and two-note slurs, once with generous pedal and Romantic freedom of tempo.",
+            "Listen to one short piece from each era, a Bach two-part invention, a Mozart sonata movement, and a Chopin nocturne, and write one sentence per piece describing its dynamics, texture, and use of time.",
+            "Take a piece you are currently learning, identify which era it belongs to, and adjust your touch, pedal use, and dynamic range to match that era's character, comparing how it sounded before and after."
+          ]
+        },
+        {
+          "id": "common-ornaments",
+          "title": "Ornaments: Trill, Mordent, and Grace Note",
+          "minutes": 12,
+          "summary": "Learn to play the three most common decorative figures in the repertoire, and understand what each one is meant to express.",
+          "sections": [
+            {
+              "heading": "The trill: a shimmer between two notes",
+              "body": "A trill is a rapid, sustained alternation between a written note and the note directly above it, marked with the letters tr above the note, and its effect is a bright, shimmering emphasis, like a small ripple of light landing on that moment in the music. Most trills in the repertoire you are approaching now begin on the main note rather than the note above it, though conventions vary by era and edition, so check a reliable performance note when in doubt. Practice a trill slowly at first, two clearly articulated notes, then gradually speeding the alternation while keeping it perfectly even, using the rotation technique from your technique-building lessons to power the motion rather than isolated finger jabs. A trill should feel light and effortless once it speeds up, never tense or hammered, and it typically resolves by landing on the note below the main note just before moving on."
+            },
+            {
+              "heading": "The mordent: a quick flick",
+              "body": "A mordent is a much shorter ornament than a trill, a single, quick alternation from the main note down to the note below and back, or in the inverted mordent, up to the note above and back, all happening in a flash right at the beginning of the note's value. Where a trill sustains and shimmers, a mordent snaps and releases, more like a quick flick of the wrist than a sustained shiver. Practice it slowly first, three distinct notes, main, neighbor, main, then gradually compress the timing until the three notes happen almost as one quick gesture, landing cleanly on the main note to continue the phrase. The mordent adds a small burst of rhythmic energy and emphasis exactly where it is placed, often at the start of an important beat, and it should never eat into the time of the surrounding notes, the phrase's underlying pulse continues right through it."
+            },
+            {
+              "heading": "The grace note: a note before the beat",
+              "body": "A grace note is a small, decorative note printed in miniature just before a main note, borrowing a sliver of time either from the note before it or, most commonly in this repertoire, from the beginning of the main note itself, so that the grace note arrives just slightly ahead of or exactly on the beat and the main note follows immediately after. Its character is a light, quick lean into the main note, almost like a small stumble caught gracefully, rather than a fully measured extra note. Practice grace notes by first playing the two notes, decorative and main, slowly and evenly, then compressing the grace note until it becomes a quick, light flick just before the main note lands squarely in rhythm. As with the mordent, the surrounding pulse should never feel disturbed, a well-played grace note decorates the beat without ever displacing it."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Trill",
+              "definition": "A rapid, sustained alternation between a written note and the note above it, marked tr, producing a shimmering emphasis."
+            },
+            {
+              "term": "Mordent",
+              "definition": "A quick, single alternation from the main note to a neighboring note and back, adding a brief flick of energy at the start of a note."
+            },
+            {
+              "term": "Grace note",
+              "definition": "A small decorative note printed before a main note, played quickly just before or at the start of the beat without displacing the underlying pulse."
+            }
+          ],
+          "exercises": [
+            "Practice a trill between two adjacent white keys, starting slowly with two even notes and gradually speeding the alternation while keeping it perfectly regular. Resolve it by landing on the note below before moving on.",
+            "Practice a mordent on one note, playing main-neighbor-main slowly three distinct times, then compressing the three notes into one quick gesture that still lands cleanly on the main note in rhythm.",
+            "Find one ornament, trill, mordent, or grace note, in a piece you are learning. Practice it slowly in isolation first, then insert it back into the phrase at a slow tempo, checking that the surrounding pulse never wavers."
+          ]
+        },
+        {
+          "id": "rubato-and-expressive-timing",
+          "title": "Rubato: The Art of Flexible Time",
+          "minutes": 12,
+          "summary": "Learn to bend tempo expressively without losing the underlying pulse, the skill that turns a mechanically correct performance into a musical one.",
+          "sections": [
+            {
+              "heading": "What rubato actually is",
+              "body": "Rubato, literally stolen time in Italian, is the expressive practice of speeding up and slowing down within a phrase, borrowing time from one moment and repaying it in another, so that the overall pacing of a passage still balances out even though no two beats are exactly equal. It is not sloppiness or a loss of rhythmic control, quite the opposite: convincing rubato requires an unusually secure sense of the underlying pulse, because you are bending something you must first hold steady. Think of it the way a skilled speaker delivers a sentence, lingering slightly on an important word, then picking up pace through a less important phrase to arrive at the next point on time, rather than reciting every syllable at a flat, identical pace. Rubato is what turns a rhythmically accurate performance into one that actually sounds like a person saying something, rather than a machine executing instructions."
+            },
+            {
+              "heading": "Where rubato lives in a phrase",
+              "body": "Rubato tends to gather around a few predictable spots, and learning to spot them is most of the skill. A phrase often eases forward slightly as it approaches its peak, the moment of greatest melodic or harmonic intensity you learned to identify in your phrasing lessons, then relaxes and broadens slightly as it settles toward its cadence, its point of arrival and rest. A single expressive note, an unexpected harmony, a striking high point, often earns a small lingering moment, a slight delay before it sounds, as if the music is taking a breath before saying something important. The steady pulse never truly disappears during any of this, it simply bends elastically around these moments and returns, which is why the best rubato often feels inevitable and natural rather than noticeably manipulated, an audience should feel the expression without necessarily analyzing where the tempo actually moved."
+            },
+            {
+              "heading": "Practicing rubato without losing control",
+              "body": "Build rubato on top of, never instead of, a secure steady-tempo performance, since bending time convincingly requires knowing exactly what you are bending away from. Learn a phrase completely in strict tempo first, metronome-secure, before adding any expressive flexibility at all. Then experiment: try lingering very slightly on the phrase's peak note, and compensate by moving very slightly forward through a less important passage nearby, so that the phrase as a whole still arrives at its cadence in roughly the time it would have taken at a steady pace. Record yourself and listen back, exaggerated rubato sounds indulgent or unstable, while well-judged rubato is often barely noticeable as a tempo change at all, only as a feeling of expressiveness. Start subtly, with small amounts of give and take, and only gradually explore a wider range as your ear and your judgment develop together."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Rubato",
+              "definition": "The expressive practice of speeding up and slowing down within a phrase while the overall pacing still balances, built on top of a secure underlying pulse."
+            },
+            {
+              "term": "Stolen time",
+              "definition": "The literal meaning of rubato, describing how time borrowed in one part of a phrase is compensated elsewhere in the same phrase."
+            },
+            {
+              "term": "Expressive lingering",
+              "definition": "A slight, deliberate delay on an important or striking note, used sparingly to draw attention to a moment of expressive weight."
+            }
+          ],
+          "exercises": [
+            "Learn a short phrase in strict metronome tempo until it is completely secure, then experiment with a slight lingering on its peak note, compensating with a small forward motion elsewhere in the same phrase.",
+            "Record yourself playing a phrase twice, once perfectly strict, once with rubato you consider tasteful. Listen back and judge honestly whether the rubato sounds expressive or merely unstable.",
+            "Listen to a recording by a pianist known for expressive rubato playing a piece you know, and try to identify, out loud, exactly where the tempo eases and where it moves forward to compensate."
+          ]
+        },
+        {
+          "id": "building-a-repertoire",
+          "title": "Building and Maintaining a Personal Repertoire",
+          "minutes": 12,
+          "summary": "Move from learning pieces one at a time to curating a small, well-maintained repertoire of pieces you can play beautifully at any time, without recent practice.",
+          "sections": [
+            {
+              "heading": "Repertoire is different from the piece you are currently learning",
+              "body": "Almost every intermediate player has one piece in active progress, the thing being sectioned, drilled, and slowly assembled. Far fewer players have a repertoire, a small standing collection of pieces that are already finished and that can be played beautifully at more or less a moment's notice, without weeks of renewed practice first. This distinction matters more than it first appears: a repertoire is what lets you sit down at any piano, anywhere, and actually share music with another person, rather than always being mid-project. Building one deliberately, rather than hoping finished pieces simply stay finished on their own, is a skill in its own right, closely related to the spaced repetition and maintenance review habits from your practice-mastery lessons, now applied specifically to the question of which pieces deserve permanent upkeep."
+            },
+            {
+              "heading": "Choosing what belongs in your repertoire",
+              "body": "Not every piece you finish needs to join your permanent repertoire, and choosing well matters more than choosing many. Favor pieces you genuinely love, since maintaining a piece you find dull rarely survives contact with a busy month, alongside a small deliberate spread of styles and eras, a Baroque piece, a Classical piece, something Romantic or later, so your repertoire can answer almost any occasion or mood. Favor pieces that sit comfortably within your technique with a little room to spare, rather than ones you only barely managed at their hardest moment, since a repertoire piece needs to survive nerves, unfamiliar pianos, and months without dedicated practice. A repertoire of five to eight such pieces, genuinely secure and ready, is a realistic and valuable goal for an intermediate player, and it is worth vastly more than fifteen pieces that are all half-remembered."
+            },
+            {
+              "heading": "Keeping repertoire alive",
+              "body": "A repertoire piece stays alive through light, regular contact, not through occasional intense re-cramming. Revisit each repertoire piece roughly once every week or two with a single, relaxed, musical play-through, not a return to slow, sectioned practice unless something has genuinely slipped, treating the run-through the way you would revisit an old friend rather than a project. Keep a simple written list of your repertoire pieces along with the date you last played each one, so nothing quietly falls out of rotation unnoticed, and rotate through the list deliberately across your practice weeks. When a piece does start to feel shaky after a long gap, give it a short, focused refresh, a few minutes of the sectioned, hands-together practice from earlier in your training, rather than either ignoring the slip or relearning the piece from scratch. A well-maintained repertoire compounds in value every year you keep it, the single most rewarding long-term habit an intermediate pianist can build."
+            }
+          ],
+          "keyTerms": [
+            {
+              "term": "Repertoire",
+              "definition": "A small, standing collection of finished pieces that a player can perform confidently at any time without weeks of renewed practice."
+            },
+            {
+              "term": "Repertoire maintenance",
+              "definition": "Keeping finished pieces performance-ready through brief, regular play-throughs rather than occasional intensive re-learning."
+            },
+            {
+              "term": "Stylistic spread",
+              "definition": "Deliberately including pieces from different eras and moods in a repertoire so it can suit a wide range of occasions."
+            }
+          ],
+          "exercises": [
+            "List every piece you currently consider finished, then choose five to eight for your permanent repertoire, favoring pieces you love and a spread of styles over sheer quantity.",
+            "Create a simple repertoire log with each chosen piece and today's date. Play through one repertoire piece today as a relaxed, musical performance, then update its date.",
+            "Pick one repertoire piece you have not played in several weeks and give it a short, focused refresh using sectioned, hands-together practice on only its shakiest passage, rather than relearning it from the start."
+          ]
+        }
+      ]
+    }
+  ]
+}
