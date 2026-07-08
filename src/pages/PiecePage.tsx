@@ -9,6 +9,7 @@ import { Piano, Metronome } from "../lib/sampler";
 import { connectMidi } from "../lib/midi";
 import type { MidiConnection } from "../lib/midi";
 import { MicListener } from "../lib/pitch";
+import type { MicDebug } from "../lib/pitch";
 import { flattenHand, measureBeats, LEVEL_NAMES, midiToName } from "../lib/music";
 import type { FlatNote } from "../lib/music";
 import { useStore } from "../lib/store";
@@ -77,6 +78,7 @@ export function PiecePage() {
   const [countIn, setCountIn] = useState<number | null>(null);
   const [hintMidis, setHintMidis] = useState<Set<number> | undefined>(undefined);
   const [progressPct, setProgressPct] = useState(0);
+  const [micDebug, setMicDebug] = useState<MicDebug | null>(null);
 
   const rafRef = useRef(0);
   const tickTimerRef = useRef(0);
@@ -210,6 +212,7 @@ export function PiecePage() {
     midiRef.current?.dispose();
     midiRef.current = null;
     setLastHeard(null);
+    setMicDebug(null);
 
     const elapsedMin = (Date.now() - s.startedAt) / 60000;
     if (s.correct + s.wrong > 0 && piece) {
@@ -342,7 +345,7 @@ export function PiecePage() {
     if (inputMethod === "mic") {
       const mic = new MicListener();
       try {
-        await mic.start((midi) => handleInputRef.current(midi));
+        await mic.start((midi) => handleInputRef.current(midi), setMicDebug);
         micRef.current = mic;
       } catch {
         setMicError("Microphone access was blocked. Allow it in the browser, or choose another input.");
@@ -500,6 +503,33 @@ export function PiecePage() {
           </Reveal>
 
           {micError && <div className="piece__note piece__note--warn">{micError}</div>}
+          {practicing && inputMethod === "mic" && (
+            <div className="piece__mic-debug card">
+              <div className="piece__mic-row">
+                <span className="small">Mic level</span>
+                <div className="piece__mic-meter">
+                  <div
+                    className="piece__mic-meter-fill"
+                    style={{ width: `${Math.min(100, (micDebug?.rms ?? 0) * 400)}%` }}
+                  />
+                </div>
+              </div>
+              <div className="piece__mic-row">
+                <span className="small">
+                  Pitch clarity {micDebug ? `${Math.round(micDebug.clarity * 100)}%` : "—"}
+                  {micDebug?.freq ? ` · ${Math.round(micDebug.freq)} Hz` : ""}
+                </span>
+                <span className={`chip${micDebug?.accepted ? " chip--accent" : ""}`}>
+                  {micDebug?.accepted ? "note accepted" : "listening"}
+                </span>
+              </div>
+              <p className="small piece__mic-hint">
+                Play a note and check this bar. If the level bar barely moves, your phone mic is
+                too far away or too quiet — get closer to the piano. If the level moves but no
+                note is accepted, the clarity % is too low for a confident match.
+              </p>
+            </div>
+          )}
           {practicing && inputMethod === "midi" && midiName && (
             <div className="piece__note">Connected: {midiName}</div>
           )}

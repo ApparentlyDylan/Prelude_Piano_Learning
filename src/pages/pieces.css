@@ -247,6 +247,42 @@
   color: #7c3f31;
 }
 
+.piece__mic-debug {
+  padding: 16px 22px;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.piece__mic-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.piece__mic-meter {
+  flex: 1;
+  max-width: 220px;
+  height: 8px;
+  border-radius: 100px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.piece__mic-meter-fill {
+  height: 100%;
+  border-radius: 100px;
+  background: linear-gradient(90deg, var(--sage), var(--accent));
+  transition: width 0.08s linear;
+}
+
+.piece__mic-hint {
+  color: var(--ink-faint);
+  line-height: 1.5;
+}
+
 .piece__practice-bar {
   padding: 16px 22px;
   margin-bottom: 18px;
